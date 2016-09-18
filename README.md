@@ -1,6 +1,6 @@
 # computational_physics_N2014301020060
  
  homework
- - [ ] Exercise_01:
- - [ ] Exercise_02:
+ - [x] Exercise_01:
+ - [x] Exercise_02:https://github.com/tanzijian/computational_physics_N2014301020060/blob/master/second
  - [ ] Exercise_03:
