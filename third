@@ -7,10 +7,10 @@ while x < 40:
   time.sleep(0.1)
   import os
   i = os.system('cls')  
-  print(y,"#####       #       #    #      ####    #####   ")
-  print(y,"  #       #  #      ##   #        #       #     ")
+  print(y,"#####       #       ##   #      ####    #####   ")
+  print(y,"  #       #  #      # #  #        #       #     ")
   print(y,"  #      ######     #  # #       #        #     ")
-  print(y,"  #     #      #    #    #      ####    #####   ")  
+  print(y,"  #     #      #    #   ##      ####    #####   ")  
   x = x + 1
   
   
